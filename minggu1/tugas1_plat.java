@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class tugas1_plat {
     public static void main(String[] args) {
         char[] kode = {'A', 'B', 'D', 'E', 'F', 'G', 'H', 'L', 'N', 'T'};
-
         char[][] kota = {
             {'B', 'A', 'N', 'T', 'E', 'N', ' ', ' ', ' ', ' ', ' ', ' '}, 
             {'J', 'A', 'K', 'A', 'R', 'T', 'A', ' ', ' ', ' ', ' ', ' '}, 
